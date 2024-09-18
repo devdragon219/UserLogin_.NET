@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\APIService",
+    "\\APIService.Tests",
+    "\\APIService\\Controllers",
+    "\\APIService\\Data",
+    "\\APIService\\Migrations",
+    "\\APIService\\Models",
+    "\\MyConsoleApp"
+  ],
+  "SelectedNode": "\\README.md",
+  "PreviewInSolutionExplorer": false
+}
